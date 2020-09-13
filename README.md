@@ -1,15 +1,12 @@
 ### Hi there, I'm Dann - aka [codeSTACKr][website]👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a Brother and a Developer!
 
 - 🔭 I’m currently working on a [PIZZA HOUSE LARAVEL][laravelApp]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2020 Goals: Improve my coding skills
+- ⚡ Fun fact: I love to draw play online games, and play Basketball
 
 ### Connect with me:
 
@@ -39,8 +36,8 @@
 
 [website]: https://dannportfolio.netlify.com
 [laravelApp]: https://github.com/DannJohnrem/PIZZAHOUSE
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/AJohnrem
+[youtube]: https://www.youtube.com/channel/UCGuNwKbOl-NBaApHOi0zaPA?view_as=subscriber
+[instagram]: https://www.instagram.com/djadgq/
+[linkedin]: https://www.linkedin.com/in/dann-johnrem-de-guzman-97233319b/
 
