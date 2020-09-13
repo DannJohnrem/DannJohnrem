@@ -37,7 +37,7 @@
 <br>
 
 <details>
-  :zap: Github Stats
+  <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="DannJohnrem's Github Stats" src="https://github-readme-stats-git-master.dannjohnrem.vercel.app/api?username=dannjohnrem&show_icons=true&hide_border=false&count_private=true&theme=gruvbox" />
 
