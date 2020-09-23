@@ -1,4 +1,4 @@
-### Hi there, I'm Johnrem - aka [Dann][website]👋
+### Hi there, I'm Dann Johnrem De Guzman - aka [Dann][website]👋
 
 ## I'm a Brother and a Developer!
 
