@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Improve my coding skills
-- ⚡ Fun fact: I love to draw play online games, and play Basketball
+- ⚡ Fun fact: I love to draw play online games, read books, play video gaemes, and basketball
 
 ### Connect with me:
 
