@@ -48,10 +48,6 @@
 <br>
 <br>
 
-
- <img align="left" alt="DannJohnrem's Github Stats" src="https://github-readme-stats-git-master.dannjohnrem.vercel.app/api?username=dannjohnrem&show_icons=true&hide_border=false&count_private=true&theme=synthwave" />
-
-
 [website]: https://dannportfolio.netlify.com
 [laravelApp]: https://github.com/DannJohnrem/PIZZAHOUSE
 [twitter]: https://twitter.com/AJohnrem
