@@ -1,5 +1,5 @@
 ### Hi there, I'm Dann Johnrem De Guzman - aka [Dann][website]👋
-<a heref="https://github.com/DannJohnrem"><img src="https://img.shields.io/github/followers/{https://github.com/DannJohnrem}.svg?style=social&label=Follow&maxAge=2592000"></a>
+<a heref="https://github.com/DannJohnrem"><img src="https://img.shields.io/github/followers/{Dann Johnrem De Guzman}.svg?style=social&label=Follow&maxAge=2592000"></a>
 ## I'm a Brother and a Developer!
 
 - 🔭 I’m currently working on a TOKTOK Delivery services website!
