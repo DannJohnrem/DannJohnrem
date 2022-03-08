@@ -66,3 +66,11 @@
 [instagram]: https://www.instagram.com/djadgq/
 [linkedin]: https://www.linkedin.com/in/dann-johnrem-de-guzman-97233319b/
 
+<br>
+<br>
+
+----
+
+<br>
+
+<img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">
