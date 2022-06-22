@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a TOKTOK Delivery services website!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Improve my coding skills
+- 🥅 2022 Goals: Improve my coding skills and my communication skills
 - ⚡ Fun fact: I love to draw, play online games, read books and basketball
 
 <!-- 
