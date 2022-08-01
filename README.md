@@ -1,5 +1,5 @@
 ### Hi there, I'm Dann Johnrem De Guzman - aka [Dann][website]👋
-<a heref="https://github.com/DannJohnrem"><img src="https://img.shields.io/github/followers/{https://github.com/DannJohnrem}.svg?style=social&label=Follow&maxAge=2592000"></a>
+<a heref="https://github.com/DannJohnrem"><img src="https://img.shields.io/github/followers/{DannJohnrem}.svg?style=social&label=Follow&maxAge=2592000"></a>
 ## I'm a Brother and a Developer!
 
 - 🔭 I’m currently working on a TOKTOK Delivery services website!
@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to draw, play online games, read books and basketball
 
 ## CONTACT DETAILS
- - Mobile: 0915-069-7145/ 0926-727-1209
+ ### Mobile: 0915-069-7145/ 0926-727-1209
  - Email: jonrhem10@gmail.com
  - Home Address: Block 5 Lot 18 CHE-1 Bagumbayan Teresa Rizal
 
