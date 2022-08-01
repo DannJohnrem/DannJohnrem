@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to draw, play online games, read books and basketball
 
 ## CONTACT DETAILS
- ### Mobile: 0915-069-7145/ 0926-727-1209
+ - Mobile: 0915-069-7145/ 0926-727-1209
  - Email: jonrhem10@gmail.com
  - Home Address: Block 5 Lot 18 CHE-1 Bagumbayan Teresa Rizal
 
@@ -56,6 +56,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
+## 💻 IDEs/Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🎶 Sound
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
