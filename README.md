@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Improve my coding skills and my communication skills
-- ⚡ Fun fact: I love to draw, play online games, read books and basketball
+- ⚡ Fun fact: I love to draw, play online games, read books, and basketball
 
 ## CONTACT DETAILS
  - Mobile: 0915-069-7145/ 0926-727-1209
