@@ -2,7 +2,7 @@
 <a heref="https://github.com/DannJohnrem"><img src="https://img.shields.io/github/followers/{DannJohnrem}.svg?style=social&label=Follow&maxAge=2592000"></a>
 ## I'm a Brother and a Developer!
 
-- 🔭 I’m currently working on a TOKTOK Delivery services website!
+- 🔭 I’m currently working on a Comment System using Laravel Framework!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Improve my coding skills and my communication skills
