@@ -11,7 +11,7 @@
 ## CONTACT DETAILS
  - Mobile: 0915-069-7145/ 0926-727-1209
  - Email: jonrhem10@gmail.com
- - Home Address: Block 5 Lot 18 CHE-1 Bagumbayan Teresa Rizal
+ - Home Address: Block 5 Lot 18 CHE-1 Bagumbayan Teresa Rizal, Philippines
 
 ## PERSONAL PROFILE
  - I'm a Junior Software Engineer with 1 year of experience is seeking to pursue an opportunity with a growing organization that will utilize and enhance my knowledge in software development, and that will provide me with essential growth opportunities. A Team player with a professional and possitive working attitude.
