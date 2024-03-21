@@ -66,13 +66,12 @@
 <br>
 <br>
 
-[website]: https://dannportfolio.netlify.com
-/*this laravelapp I will change this to portfolio site this is just a reminder in case I forgotten*/
-[laravelApp]: https://github.com/DannJohnrem/PIZZAHOUSE
-[twitter]: https://twitter.com/AJohnrem
-[youtube]: https://www.youtube.com/channel/UCGuNwKbOl-NBaApHOi0zaPA?view_as=subscriber
-[instagram]: https://www.instagram.com/djadgq/
-[linkedin]: https://www.linkedin.com/in/dann-johnrem-de-guzman-97233319b/
+ -[website]: https://dannportfolio.netlify.com <!-- this website I will change this to portfolio site this is just a reminder in case I forgotten -->
+ -[laravelApp]: https://github.com/DannJohnrem/PIZZAHOUSE  <!-- I'll change this sooner -->
+ -[twitter]: https://twitter.com/AJohnrem
+ -[youtube]: https://www.youtube.com/channel/UCGuNwKbOl-NBaApHOi0zaPA?view_as=subscriber
+ -[instagram]: https://www.instagram.com/djadgq/
+ -[linkedin]: https://www.linkedin.com/in/dann-johnrem-de-guzman-97233319b/
 
 <br>
 <br>
