@@ -68,10 +68,9 @@
 
  - [website]: `https://dannportfolio.netlify.com` <!-- this website I will change this to portfolio site this is just a reminder in case I forgotten -->
  - [laravelApp]: `https://github.com/DannJohnrem/PIZZAHOUSE`  <!-- I'll change this sooner -->
- - [twitter]: `https://twitter.com/AJohnrem` <!-- I'll change this sooner -->
- - [youtube]: `https://www.youtube.com/channel/UCGuNwKbOl-NBaApHOi0zaPA?view_as=subscriber` <!-- I'll change this sooner -->
- - [instagram]: `https://www.instagram.com/djadgq`<!-- I'll change this sooner -->
- - [linkedin]: `https://www.linkedin.com/in/dann-johnrem-de-guzman-97233319b` <!-- I'll change this sooner -->
+ - [twitter]: `https://twitter.com/AJohnrem` <!-- This is my twitter account profile -->
+ - [youtube]: `https://www.youtube.com/channel/UCGuNwKbOl-NBaApHOi0zaPA?view_as=subscriber` <!-- This is my Youtube account profile -->
+ - [linkedin]: `https://www.linkedin.com/in/dann-johnrem-de-guzman-97233319b` <!-- This is my LinkedIn account profile -->
 
 <br>
 <br>
