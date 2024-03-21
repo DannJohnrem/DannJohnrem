@@ -2,19 +2,19 @@
 ## I'm a Brother and a Developer!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Improve my coding skills and my communication skills
-- ⚡ Fun fact: I love to draw, play online games, read books, and play basketball
+- 👯 I am looking forward to the opportunity of collaborating with you and gaining insights from your expertise
+- 🥅 2024 Goals: I am striving to enhance my programming abilities and broaden my knowledge base by learning new concepts
+- ⚡ Fun fact: I love playing games and eating foods
 
 ## CONTACT DETAILS
- - Mobile: You can send me an email if you are interested in hiring me
+ - Mobile: You can send me a DM by telegram here is the link: `https://t.me/Ajohnrem`
  - Email: jonrhem10@gmail.com
  - Home Address: Rizal, Philippines
 
 ## PERSONAL PROFILE
- - Hi welcome to my profile on GitHub, this is my journey to becoming a programmer and I have 2 years of experience in front-end development, I also want to improve my skills and add new knowledge. But now I'm focusing on my improvements. I believe the word "Slow progress is still progress"
+ - Welcome to my GitHub profile. I am on an exciting journey towards becoming a proficient programmer. With two years of experience in front-end development under my belt, I am constantly seeking to refine my skills and absorb new knowledge. Currently, my focus is on self-improvement. I firmly believe in the adage, ‘Slow progress is still progress.
 
- - enjoy ad happy coding.
+ - enjoy and happy coding.
 
 ## 📋Languages
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -67,6 +67,7 @@
 <br>
 
 [website]: https://dannportfolio.netlify.com
+/*this laravelapp I will change this to portfolio site this is just a reminder in case I forgotten*/
 [laravelApp]: https://github.com/DannJohnrem/PIZZAHOUSE
 [twitter]: https://twitter.com/AJohnrem
 [youtube]: https://www.youtube.com/channel/UCGuNwKbOl-NBaApHOi0zaPA?view_as=subscriber
