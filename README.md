@@ -12,7 +12,7 @@
  - Home Address: Rizal, Philippines
 
 ## PERSONAL PROFILE
- - Welcome to my GitHub profile. I am on an exciting journey towards becoming a proficient programmer. With two years of experience in front-end development under my belt, I am constantly seeking to refine my skills and absorb new knowledge. Currently, my focus is on self-improvement. I firmly believe in the adage, ‘Slow progress is still progress.
+ - Welcome to my GitHub profile. I am on an exciting journey towards becoming a proficient programmer, I am constantly seeking to refine my skills and absorb new knowledge. Currently, my focus is on self-improvement. I firmly believe in the adage, ‘Slow progress is still progress.
 
  - enjoy and happy coding.
 
