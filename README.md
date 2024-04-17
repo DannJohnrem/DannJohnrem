@@ -8,7 +8,7 @@
 
 ## CONTACT DETAILS
  - Mobile: You can send me a DM by telegram here is the link: `https://t.me/Ajohnrem`
- - Email: ![Gmail]([https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)) jonrhem10@gmail.com
+ - Email: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white jonrhem10@gmail.com
  - Home Address: Rizal, Philippines
 
 ## PERSONAL PROFILE
