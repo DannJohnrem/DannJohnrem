@@ -8,7 +8,7 @@
 
 ## CONTACT DETAILS
  - Mobile: You can send me a DM by telegram here is the link: `https://t.me/Ajohnrem`
- - Email: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) jonrhem10@gmail.com
+ - Email: jonrhem10@gmail.com
  - Home Address: Rizal, Philippines
 
 ## PERSONAL PROFILE
@@ -32,6 +32,7 @@
  
 ## 📚 Frameworks, Platforms and Libraries
  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+ ![image]({https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white})
  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -63,6 +64,7 @@
 ## 🥅 Other
  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+ ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 
 <br>
 <br>
