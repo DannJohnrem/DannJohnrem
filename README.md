@@ -1,10 +1,10 @@
 ### Hi there, I'm Dann Johnrem A. De Guzman - aka REM nice to meet you👋
-## I'm a Brother and a Developer!
+## I'm a PHP/Laravel Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I am looking forward to the opportunity of collaborating with you and gaining insights from your expertise
-- 🥅 2024 Goals: I am striving to enhance my programming abilities and broaden my knowledge base by learning new concepts
-- ⚡ Fun fact: I love playing games and eating foods
+- 🥅 2025 Goals: I am striving to enhance my programming abilities and broaden my knowledge base by learning new concepts
+- ⚡ Fun fact: I love playing games, sports like basketball, and eat foods
 
 ## CONTACT DETAILS
  - Mobile: You can send me a DM by telegram here is the link: `https://t.me/Ajohnrem`
